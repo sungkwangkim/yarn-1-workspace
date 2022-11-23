@@ -1,0 +1,5 @@
+{
+  "name": "yarn-1-workspace",
+  "workspaces": ["packages/*"],
+  "private": true
+}
