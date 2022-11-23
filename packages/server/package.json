@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@study/common": "1.0.0"
+    "@study/common": "1.0.0",
+    "@study/lib": "1.0.0"
   },
   "scripts": {
     "dev": "node index.js"
